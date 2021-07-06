@@ -12,10 +12,6 @@ spec:
   project: default
   source:
     chart: nginx-demo
-    helm:
-      values: |
-        pushgateway:
-          enabled: false
     repoURL: https://github.com/Iyad87/nginx-helm-chart
     targetRevision: HEAD
   syncPolicy:

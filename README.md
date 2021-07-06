@@ -1,6 +1,5 @@
 #  Argo CD with Helm 
 ### Setup Argo CD on a Kubernetes cluster. We’ll install it with Helm
-### Create an application to use the app-of-apps pattern
 
 * Creating a Helm chart
 

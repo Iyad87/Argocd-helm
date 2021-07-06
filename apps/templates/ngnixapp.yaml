@@ -11,7 +11,6 @@ spec:
     namespace: default
   project: default
   source:
-    chart: nginx-demo
     repoURL: https://github.com/Iyad87/nginx-helm-chart
     targetRevision: HEAD
   syncPolicy:

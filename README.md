@@ -18,8 +18,6 @@
     `kubectl get pods -l app.kubernetes.io/name=argocd-server -o name | cut -d'/' -f 2`
 
 
-    
-
 
 
 
